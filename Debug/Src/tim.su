@@ -1,0 +1,8 @@
+tim.c:24:6:delay_ms	24	static
+tim.c:45:6:MX_TIM2_Init	48	static
+tim.c:78:6:HAL_TIM_PWM_MspInit	24	static
+tim.c:93:6:HAL_TIM_MspPostInit	40	static
+tim.c:119:6:HAL_TIM_PWM_MspDeInit	16	static
+tim.c:171:6:sound	48	static
+tim.c:196:6:buzzer_quit	8	static
+tim.c:201:6:play_mus	16	static
